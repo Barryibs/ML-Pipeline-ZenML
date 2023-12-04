@@ -1,4 +1,4 @@
-# Predicting how a customer will feel about a product before they even ordered it
+# Predicting Insurance premiums
 
 
 The purpose of this repository is to demonstrate how [ZenML] (https://github.com/zenml-io/zenml) empowers your business to build and deploy machine learning pipelines in a multitude of ways:
